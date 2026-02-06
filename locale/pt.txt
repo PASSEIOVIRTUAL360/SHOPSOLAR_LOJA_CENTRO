@@ -12,18 +12,18 @@ question_0741BC9D_2560_EF19_41BC_A6653FDAA8B3.title = quer sair?
 ## Media
 
 ### Title
+panorama_8FE6E5F9_9FE0_581D_41D8_9BF2F143F503.label = associacao
 panorama_90104D6D_9FE0_4835_41C2_0F33E1CD7546.label = ceo
 panorama_90139BCA_9FE0_C87E_41E1_0796F7A615D0.label = comercial
 panorama_FBD16126_F70B_D6AF_41E3_6B1408FD9457.label = drone
 panorama_E637E3D8_F70A_59E3_41E7_3010A081A346.label = eletropostos
-panorama_9010F577_9FE0_D816_41E1_4706D50937C2.label = loja_centro
 panorama_E511D594_F70B_DE63_41E9_02889E0A45FA.label = loja_centro
 panorama_901051A9_9FE0_F83D_41DB_540D5EBAAF19.label = loja_centro
 panorama_E6A12CC5_F70A_CFED_41BB_5FBC0EBFF12B.label = loja_centro
 panorama_E62C250A_F70A_FE67_41EC_53898ADA587F.label = loja_centro
-panorama_90100C02_9FE1_CFEE_41E2_D74D8E5AF411.label = loja_centro
+panorama_9010F577_9FE0_D816_41E1_4706D50937C2.label = loja_centro
 panorama_0D85BBA8_24A0_2938_41BD_CFE7F6E9DF48.label = loja_centro
-panorama_8FE6E5F9_9FE0_581D_41D8_9BF2F143F503.label = loja_centro
+panorama_90100C02_9FE1_CFEE_41E2_D74D8E5AF411.label = loja_centro
 panorama_90100419_9FE0_781A_41DE_3589F6FD4DD2.label = loja_centro
 panorama_901010A6_9FE0_5836_41D2_05A5E6DE96DD.label = loja_centro
 panorama_901AAD7F_9FE0_C815_41CA_BBB332844CCE.label = loja_centro
